@@ -1,5 +1,5 @@
 <?php
 return array(
-    'name' => 'black0sword@163.com',
-    'email' => 'black0sword@163.com',
+    'name' => 'xxx@163.com',
+    'email' => 'xxx@163.com',
 );
